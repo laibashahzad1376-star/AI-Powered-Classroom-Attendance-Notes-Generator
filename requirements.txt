@@ -1,0 +1,5 @@
+streamlit
+PROMPTS.txt
+
+Lecture transcription prompts.
+Notes summarization prompts.
